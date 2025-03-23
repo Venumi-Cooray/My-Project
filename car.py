@@ -15,3 +15,6 @@ class Car:
             return f"⚠️ Warning! The {self.brand} is moving **too fast**: {current_speed} km/h!"
         else:  # Speed > 140 km/h
             return f"🚨 **Danger! The {self.brand} is over-speeding at {current_speed} km/h! Slow down!**"
+
+def fuel_efficiency(self):
+        return f"The {self.brand} consumes {self.fuel_usage} liters per 100 km
