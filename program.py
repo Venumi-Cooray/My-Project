@@ -1,7 +1,7 @@
 from car import Car
 
-car1 = Car('Toyota')
-car2 = Car('Tesla')
+car1 = Car('Toyota',180)
+car2 = Car('Tesla',250)
 
 cars = [car1, car2]
 
