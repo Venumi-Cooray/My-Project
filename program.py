@@ -15,3 +15,6 @@ for car in cars:
     print(car.check_speed(160))
 
     print()
+    
+car1 = Car('Toyota',180,6.5)
+car2 = Car('Tesla',250,0) 
