@@ -11,7 +11,6 @@ for car in cars:
     print(car.check_speed(90))
     print(car.check_speed(120))
     print(car.check_speed(160))
-
     print(car.fuel_efficiency())
     print()
 
