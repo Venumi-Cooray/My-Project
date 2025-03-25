@@ -14,6 +14,6 @@ for car in cars:
     print(car.fuel_efficiency())
     print()
 
-    print(car.fuel_efficiency())
+    
     
 
